@@ -4,6 +4,6 @@ to delete a file from git hub after pushing our files into it:
 step 1-> delete the file from working directory/working tree (using git command- git rm <file_name>).
 step 2-> after deleting ther file do commit 
       -> git commit -m "first commit"
-step-> Now do git push
+step 3-> Now do git push
     -> git push
     -> Now, the file got deleted form git hub
